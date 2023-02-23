@@ -2,8 +2,8 @@
 
 defines a basic Board class in Scala.
 
-to compile:
-# scalac Connect4.scala
+**to compile:**
+scalac Connect4.scala
 
-to run:
-# scala Connect4
+**to run:**
+scala Connect4
